@@ -1,0 +1,1 @@
+company["Summery"].str.contains('|'.join(list(product["Words"])))
